@@ -8,7 +8,7 @@
 
 Homesphere brings you an opportunity to register for your house in ATPL at your fingertips through a website. Now, say goodbye to the hustle and bustle of making plans and trips and all the uncool stuffs you have to go through while buying a house, we'll get it all done for you! 
 
-## **Systerm Functions**
+## **System Functions**
 
 ## User Side
 
